@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.opencv.core.Mat"/>
+<fullyQualifiedTypeName name="org.opencv.core.Size"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Collections"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.utils.StylesheetPIHandler"/>
+<fullyQualifiedTypeName name="sun.applet.Main"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="org.opencv.imgproc.Imgproc"/>
+<fullyQualifiedTypeName name="org.opencv.core.CvType"/>
+</qualifiedTypeNameHistroy>
